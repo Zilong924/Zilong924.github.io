@@ -23,7 +23,7 @@ repository               : "Zilong924/Zilong924.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zilong-wang.jpg"
+  avatar           : "zilong-wang.png"
   name             : "Zilong Wang"
   pronouns         : "he/him"  
   bio              : "PhD student in communication-efficient decentralized learning."
