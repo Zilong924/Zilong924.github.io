@@ -7,7 +7,7 @@ location: Linköping, Sweden
 intro: >-
   I study how learning and communication can work together across a network.
   My research focuses on communication-efficient decentralized learning,
-  particularly decentralized learning optimization methods driven by walks on graphs.
+  particularly walk-based optimization methods.
 about: >-
   I am a PhD student in the Communication Systems division at Linköping
   University, supervised by Prof. Erik G. Larsson and Dr. Karl-Ludwig Besser.
@@ -23,7 +23,7 @@ research:
   - number: "01"
     title: Communication-aware walk-based decentralized learning
     description: >-
-      Learning algorithms in which a model travels between neighboring nodes in the netowrks,
+      Learning algorithms in which a model travels between neighboring nodes in the netowrk,
       combining local updates with network-wide and communication-aware optimization.
     tags: [Decentralized learning, Random walks, Incremental optimization, Communications]
   # - number: "02"
